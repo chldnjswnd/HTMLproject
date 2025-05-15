@@ -1,0 +1,33 @@
+/* 전체 페이지 스타일 */
+body {
+    font-family: Arial, sans-serif; /* 글꼴 설정 */
+    background-color: #f0f0f0; /* 배경 색 */
+    margin: 0; /* 기본 여백 없애기 */
+    padding: 0; /* 기본 패딩 없애기 */
+}
+
+/* 헤더 스타일 */
+header {
+    background-color: #4CAF50; /* 배경 색 */
+    color: white; /* 텍스트 색 */
+    text-align: center; /* 텍스트 가운데 정렬 */
+    padding: 20px; /* 안쪽 여백 */
+}
+
+/* 본문 콘텐츠 스타일 */
+main {
+    padding: 20px; /* 안쪽 여백 */
+    background-color: #ffffff; /* 배경 색 */
+    text-align: center; /* 텍스트 가운데 정렬 */
+}
+
+/* 푸터 스타일 */
+footer {
+    background-color: #333; /* 배경 색 */
+    color: white; /* 텍스트 색 */
+    text-align: center; /* 텍스트 가운데 정렬 */
+    padding: 10px; /* 안쪽 여백 */
+    position: fixed; /* 화면 하단에 고정 */
+    width: 100%; /* 화면 전체 너비 */
+    bottom: 0; /* 화면 하단에 고정 */
+}
